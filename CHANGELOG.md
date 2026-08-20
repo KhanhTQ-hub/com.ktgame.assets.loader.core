@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/KhanhTQ-Organization/com.ktgame.assets.loader.core/compare/v1.0.3...v1.0.4) (2026-08-20)
+
+
+### Bug Fixes
+
+* update extensions coregame ([ead2be6](https://github.com/KhanhTQ-Organization/com.ktgame.assets.loader.core/commit/ead2be6d6c5e20e4b564a00e312d3a1a01fd6b06))
+
 ## [1.0.3](https://github.com/KhanhTQ-Organization/com.ktgame.assets.loader.core/compare/v1.0.2...v1.0.3) (2026-05-06)
 
 
