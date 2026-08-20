@@ -32,7 +32,7 @@ namespace com.ktgame.assets.loader.core
 
 			if (result == null)
 			{
-				var exception = new InvalidOperationException($"Requested asset（Key: {address}）was not found.");
+				var exception = new InvalidOperationException($"Requested asset (Key: {address}) was not found.");
 				setter.SetOperationException(exception);
 			}
 
